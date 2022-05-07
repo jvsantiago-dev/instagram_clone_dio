@@ -13,4 +13,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML básico](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS básico](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-Made by jvsantiago-dev:wave: Let´s code!:green_heart:
+Made by jvsantiago-dev:wave: Let's code!:green_heart:
