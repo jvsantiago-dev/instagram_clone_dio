@@ -13,7 +13,7 @@
 </p>
 
 <h4 align="center">
-	Status: ✔️ Disponível
+	Status: 🚀 Finished
 </h4>
 
 <p align="center">
