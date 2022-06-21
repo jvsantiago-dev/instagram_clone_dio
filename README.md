@@ -8,7 +8,6 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
-	<img src="https://img.shields.io/github/repo-size/jvsantiago-dev/instagram_clone_dio?color=brightgreen"/>
 	<img src="https://img.shields.io/github/last-commit/jvsantiago-dev/instagram_clone_dio?color=brightgreen"/>
 	<img src="https://img.shields.io/github/languages/count/jvsantiago-dev/instagram_clone_dio?color=brightgreen"/>
 </p>
